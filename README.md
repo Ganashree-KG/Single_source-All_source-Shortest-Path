@@ -10,5 +10,8 @@ OBJECTIVES
 
 PROBLEM DEFINATION
 Multi-dimensional Edge Weights: Each edge in the graph has multiple weight attributes (dimensions) representing different criteria (e.g., distance, time, cost, environmental impact). This adds complexity as each path has multiple criteria to evaluate, rather than a single scalar weight.
-SSSP: Find the shortest path from a single source node to all other nodes in the graph.
-APSP: Calculate the shortest paths between all pairs of nodes in the graph.
+SSSP: Find the shortest path from a single source node to all other nodes in the graph.
+APSP: Calculate the shortest paths between all pairs of nodes in the graph.
+
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/9f1d349c-29d3-4607-88e6-498bd881c32c" />
+
